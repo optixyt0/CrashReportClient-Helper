@@ -1,5 +1,8 @@
 ![Banner](https://eonfn.dev/CrashReportClient%20Helper.png)
 
+### Credits:
+- @EonOGFN for the OG Code
+
 ### How to Use:
 1. Build the solution, then place the executable (`exe`) in the `\Engine\Binaries\Win64` directory.
 2. Within the `Win64` folder, rename the file to `CrashReportClient.exe`.
